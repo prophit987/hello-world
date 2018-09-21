@@ -1,7 +1,7 @@
 # hello-world
 intro project lesson one
 dontia moore-owner-edited-name-describing changes
-# iOS CircleCI 2.0 configuration file
+cozy-desktop/KNOWN_ISSUES.md# iOS CircleCI 2.0 configuration file
 #
 # Check https://circleci.com/docs/2.0/ios-migrating-from-1-2/ for more details
 #
