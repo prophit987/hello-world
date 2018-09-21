@@ -2,7 +2,7 @@
 intro project lesson one
 dontia moore-owner-edited-name-describing changes
 cozy-desktop/KNOWN_ISSUES.md# iOS CircleCI 2.0 configuration file
-#
+#curl -X POST https://circleci.com/api/v1.1/project/:vcs-type/:username/:project/build?circle-token=:token
 # Check https://circleci.com/docs/2.0/ios-migrating-from-1-2/ for more details
 #
 version: 2
